@@ -1,0 +1,10 @@
+package schroedinger.java.kapitel07.rollenspiele;
+
+/**
+ * 
+ * @author Philip Ackermann
+ * 
+ */
+public interface Held {
+	void heldenhaftPosieren();
+}

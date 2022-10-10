@@ -1,0 +1,241 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n      <module fileurl=\"file://$PROJECT_DIR$/java_projects.iml\" filepath=\"$PROJECT_DIR$/java_projects.iml\" />\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	(revision 252fb79c77143c5c7be99c6bbfbe30cdccf0f301)
++++ b/.idea/modules.xml	(date 1665396140666)
+@@ -2,6 +2,8 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
++      <module fileurl="file://$PROJECT_DIR$/eclipse-demo/eclipse-demo.iml" filepath="$PROJECT_DIR$/eclipse-demo/eclipse-demo.iml" />
++      <module fileurl="file://$PROJECT_DIR$/idea-demo/idea-demo.iml" filepath="$PROJECT_DIR$/idea-demo/idea-demo.iml" />
+       <module fileurl="file://$PROJECT_DIR$/java_projects.iml" filepath="$PROJECT_DIR$/java_projects.iml" />
+     </modules>
+   </component>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"748323b0-2026-40c5-857b-d1c404d85628\" name=\"Default Changelist\" comment=\"\" />\r\n    <ignored path=\"$PROJECT_DIR$/out/\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"DatabaseView\">\r\n    <option name=\"SHOW_INTERMEDIATE\" value=\"true\" />\r\n    <option name=\"GROUP_DATA_SOURCES\" value=\"true\" />\r\n    <option name=\"GROUP_SCHEMA\" value=\"true\" />\r\n    <option name=\"GROUP_CONTENTS\" value=\"false\" />\r\n    <option name=\"SORT_POSITIONED\" value=\"false\" />\r\n    <option name=\"SHOW_EMPTY_GROUPS\" value=\"false\" />\r\n    <option name=\"AUTO_SCROLL_FROM_SOURCE\" value=\"false\" />\r\n    <option name=\"HIDDEN_KINDS\">\r\n      <set />\r\n    </option>\r\n    <expand />\r\n    <select />\r\n  </component>\r\n  <component name=\"DefaultGradleProjectSettings\">\r\n    <option name=\"isMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FavoritesManager\">\r\n    <favorites_list name=\"java_projects\" />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/study_test/InstanceCounter.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret line=\"22\" selection-start-line=\"22\" selection-end-line=\"22\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon01Test.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret line=\"1\" column=\"9\" selection-start-line=\"1\" selection-start-column=\"9\" selection-end-line=\"1\" selection-end-column=\"9\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon02Test.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret line=\"14\" column=\"69\" selection-start-line=\"14\" selection-start-column=\"69\" selection-end-line=\"14\" selection-end-column=\"69\" />\r\n              <folding>\r\n                <element signature=\"imports\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret line=\"17\" column=\"56\" selection-start-line=\"17\" selection-start-column=\"56\" selection-end-line=\"17\" selection-end-column=\"56\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon04Test.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret line=\"7\" column=\"31\" selection-start-line=\"7\" selection-start-column=\"31\" selection-end-line=\"7\" selection-end-column=\"31\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon05Test.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret line=\"25\" selection-start-line=\"25\" selection-end-line=\"25\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonifslese/TestCase.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret line=\"17\" selection-start-line=\"17\" selection-end-line=\"17\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/ClassAndObject/ObjectTestArgin.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"805\">\r\n              <caret line=\"35\" lean-forward=\"true\" selection-start-line=\"35\" selection-end-line=\"35\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/XueXiaoXiaoStudyJava/.classpath\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/src/study_test/Empty.java\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"184\">\r\n              <caret line=\"8\" column=\"43\" lean-forward=\"true\" selection-start-line=\"8\" selection-start-column=\"43\" selection-end-line=\"8\" selection-end-column=\"43\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Kotlin File\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"FindInProjectRecents\">\r\n    <findStrings>\r\n      <find>value</find>\r\n    </findStrings>\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/src/Helloworld.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/study_test/Pummy.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/study_test/Employee.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/study_test/Empty.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/study_test/InstanceCounter.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/study_test/NumberTest.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/TestGrade.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test01Demon.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test03Demon.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test02Demon.java\" />\r\n        <option value=\"$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test0Demon.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test05Demon.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test06Demon.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test04Demon.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/PracticeJava/Test07Demon.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/HelloWorld.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/Demon01Test.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon01Test.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon02Test.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon04Test.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon05Test.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/demonifslese/TestCase.java\" />\r\n        <option value=\"$PROJECT_DIR$/src/xuexiaoxiao/ClassAndObject/ObjectTestArgin.java\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"MavenProjectNavigator\">\r\n    <treeState>\r\n      <expand />\r\n      <select />\r\n    </treeState>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"85\" />\r\n    <option name=\"y\" value=\"25\" />\r\n    <option name=\"width\" value=\"1750\" />\r\n    <option name=\"height\" value=\"980\" />\r\n  </component>\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"PackagesPane\" />\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"java_projects\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"java_projects\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"java_projects\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"java_projects\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"java_projects\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"java_projects\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"study_test\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"extract.method.default.visibility\" value=\"private\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Project\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"settings.github\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"xuexiaoxiao.demonstring\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.ObjectTestArgin\">\r\n    <configuration name=\"Demon03Test\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"xuexiaoxiao.demonstring.Demon03Test\" />\r\n      <module name=\"java_projects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"xuexiaoxiao.demonstring.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Demon04Test\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"xuexiaoxiao.demonstring.Demon04Test\" />\r\n      <module name=\"java_projects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"xuexiaoxiao.demonstring.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Demon05Test\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"xuexiaoxiao.demonstring.Demon05Test\" />\r\n      <module name=\"java_projects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"xuexiaoxiao.demonstring.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ObjectTestArgin\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"xuexiaoxiao.ClassAndObject.ObjectTestArgin\" />\r\n      <module name=\"java_projects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"xuexiaoxiao.ClassAndObject.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TestCase\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"xuexiaoxiao.demonifslese.TestCase\" />\r\n      <module name=\"java_projects\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"xuexiaoxiao.demonifslese.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.ObjectTestArgin\" />\r\n        <item itemvalue=\"Application.TestCase\" />\r\n        <item itemvalue=\"Application.Demon05Test\" />\r\n        <item itemvalue=\"Application.Demon04Test\" />\r\n        <item itemvalue=\"Application.Demon03Test\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"748323b0-2026-40c5-857b-d1c404d85628\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1572349956815</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1572349956815</updated>\r\n      <workItem from=\"1572349959644\" duration=\"4385000\" />\r\n      <workItem from=\"1572521768724\" duration=\"2683000\" />\r\n      <workItem from=\"1574773581997\" duration=\"592000\" />\r\n      <workItem from=\"1578485554306\" duration=\"108000\" />\r\n      <workItem from=\"1578485756179\" duration=\"1115000\" />\r\n      <workItem from=\"1578572099412\" duration=\"5442000\" />\r\n      <workItem from=\"1578746726578\" duration=\"2821000\" />\r\n      <workItem from=\"1581129156899\" duration=\"2117000\" />\r\n      <workItem from=\"1581302896973\" duration=\"3852000\" />\r\n      <workItem from=\"1581329915333\" duration=\"767000\" />\r\n      <workItem from=\"1581387554089\" duration=\"105000\" />\r\n      <workItem from=\"1581409762614\" duration=\"1878000\" />\r\n      <workItem from=\"1581469343101\" duration=\"8352000\" />\r\n      <workItem from=\"1581561710625\" duration=\"1452000\" />\r\n      <workItem from=\"1582336297845\" duration=\"1956000\" />\r\n      <workItem from=\"1584097668223\" duration=\"686000\" />\r\n      <workItem from=\"1585051867459\" duration=\"53000\" />\r\n      <workItem from=\"1585305494994\" duration=\"6963000\" />\r\n      <workItem from=\"1585568684812\" duration=\"3292000\" />\r\n      <workItem from=\"1595645084886\" duration=\"52000\" />\r\n      <workItem from=\"1595646153384\" duration=\"850000\" />\r\n      <workItem from=\"1595658042341\" duration=\"302000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TimeTrackingManager\">\r\n    <option name=\"totallyTimeSpent\" value=\"49823000\" />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-7\" y=\"-7\" width=\"1550\" height=\"838\" extended-state=\"6\" />\r\n    <layout>\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" sideWeight=\"0.4978903\" visible=\"true\" weight=\"0.19034852\" />\r\n      <window_info id=\"Structure\" order=\"1\" sideWeight=\"0.5021097\" side_tool=\"true\" weight=\"0.17426273\" />\r\n      <window_info id=\"Image Layers\" order=\"2\" />\r\n      <window_info id=\"Designer\" order=\"3\" />\r\n      <window_info id=\"UI Designer\" order=\"4\" />\r\n      <window_info id=\"Capture Tool\" order=\"5\" />\r\n      <window_info id=\"Favorites\" order=\"6\" sideWeight=\"0.5021097\" side_tool=\"true\" weight=\"0.17426273\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" weight=\"0.32956153\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.39886847\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"7\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"8\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"9\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"10\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"11\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Messages\" order=\"12\" weight=\"0.32956153\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Palette\" order=\"3\" />\r\n      <window_info anchor=\"right\" id=\"Database\" order=\"4\" weight=\"0.3297587\" />\r\n      <window_info anchor=\"right\" id=\"Theme Preview\" order=\"5\" />\r\n      <window_info anchor=\"right\" id=\"Maven\" order=\"6\" weight=\"0.3297587\" />\r\n      <window_info anchor=\"right\" id=\"Capture Analysis\" order=\"7\" />\r\n      <window_info anchor=\"right\" id=\"Palette&#9;\" order=\"8\" />\r\n    </layout>\r\n    <layout-to-restore>\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" sideWeight=\"0.4978903\" visible=\"true\" weight=\"0.20911528\" />\r\n      <window_info id=\"Structure\" order=\"1\" sideWeight=\"0.5021097\" side_tool=\"true\" weight=\"0.17426273\" />\r\n      <window_info id=\"Image Layers\" order=\"2\" />\r\n      <window_info id=\"Designer\" order=\"3\" />\r\n      <window_info id=\"UI Designer\" order=\"4\" />\r\n      <window_info id=\"Capture Tool\" order=\"5\" />\r\n      <window_info id=\"Favorites\" order=\"6\" sideWeight=\"0.5021097\" side_tool=\"true\" weight=\"0.17426273\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" weight=\"0.32956153\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.39886847\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"7\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"8\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"9\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"10\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"11\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Messages\" order=\"12\" weight=\"0.32956153\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Palette\" order=\"3\" />\r\n      <window_info anchor=\"right\" id=\"Database\" order=\"4\" />\r\n      <window_info anchor=\"right\" id=\"Theme Preview\" order=\"5\" />\r\n      <window_info anchor=\"right\" id=\"Maven\" order=\"6\" />\r\n      <window_info anchor=\"right\" id=\"Capture Analysis\" order=\"7\" />\r\n      <window_info anchor=\"right\" id=\"Palette&#9;\" order=\"8\" />\r\n    </layout-to-restore>\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"antWorkspaceConfiguration\">\r\n    <option name=\"IS_AUTOSCROLL_TO_SOURCE\" value=\"false\" />\r\n    <option name=\"FILTER_TARGETS\" value=\"false\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/src/study_test/NumberTest.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"475\">\r\n          <caret line=\"19\" selection-start-line=\"19\" selection-end-line=\"19\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/study_test/Employee.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"232\">\r\n          <caret line=\"21\" column=\"27\" selection-start-line=\"21\" selection-start-column=\"27\" selection-end-line=\"21\" selection-end-column=\"27\" />\r\n          <folding>\r\n            <element signature=\"e#221#222#0\" expanded=\"true\" />\r\n            <element signature=\"e#251#252#0\" expanded=\"true\" />\r\n            <element signature=\"e#311#312#0\" expanded=\"true\" />\r\n            <element signature=\"e#342#343#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/study_test/Pummy.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"25\">\r\n          <caret line=\"1\" column=\"16\" selection-start-line=\"1\" selection-start-column=\"16\" selection-end-line=\"1\" selection-end-column=\"16\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/java_projects.iml\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"228\">\r\n          <caret line=\"12\" column=\"30\" selection-start-line=\"12\" selection-start-column=\"30\" selection-end-line=\"12\" selection-end-column=\"30\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test05Demon.class\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test04Demon.class\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test03Demon.class\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test02Demon.class\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test01Demon.class\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"190\">\r\n          <caret line=\"13\" column=\"18\" selection-start-line=\"13\" selection-start-column=\"18\" selection-end-line=\"13\" selection-end-column=\"18\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/practice_java.test/src/practice_java/test/Test01Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/practice_java.test/src/practice_java/test/Test02Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/PracticeJava/Test06Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"-545\">\r\n          <caret line=\"9\" column=\"54\" lean-forward=\"true\" selection-start-line=\"9\" selection-start-column=\"54\" selection-end-line=\"9\" selection-end-column=\"54\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/PracticeJava/Test05Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"114\">\r\n          <caret line=\"6\" column=\"13\" selection-start-line=\"6\" selection-start-column=\"13\" selection-end-line=\"6\" selection-end-column=\"13\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/PracticeJava/Test04Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"76\">\r\n          <caret line=\"4\" column=\"27\" lean-forward=\"true\" selection-start-line=\"4\" selection-start-column=\"27\" selection-end-line=\"4\" selection-end-column=\"27\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/PracticeJava/Test03Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"95\">\r\n          <caret line=\"5\" column=\"26\" selection-start-line=\"5\" selection-start-column=\"26\" selection-end-line=\"5\" selection-end-column=\"26\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/PracticeJava/Test02Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"361\">\r\n          <caret line=\"19\" column=\"9\" selection-start-line=\"19\" selection-start-column=\"9\" selection-end-line=\"19\" selection-end-column=\"9\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.kt\" />\r\n    <entry file=\"file://$PROJECT_DIR$/src/PracticeJava/Test07Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"621\">\r\n          <caret line=\"27\" column=\"19\" selection-start-line=\"27\" selection-start-column=\"19\" selection-end-line=\"27\" selection-end-column=\"19\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/PracticeJava/Test01Demon.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"2\" column=\"13\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/HelloWorld.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"6\" selection-start-line=\"6\" selection-end-line=\"6\" />\r\n          <folding>\r\n            <element signature=\"e#68#69#0\" expanded=\"true\" />\r\n            <element signature=\"e#117#118#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/study_test/InstanceCounter.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"22\" selection-start-line=\"22\" selection-end-line=\"22\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon01Test.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"1\" column=\"9\" selection-start-line=\"1\" selection-start-column=\"9\" selection-end-line=\"1\" selection-end-column=\"9\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon02Test.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"14\" column=\"69\" selection-start-line=\"14\" selection-start-column=\"69\" selection-end-line=\"14\" selection-end-column=\"69\" />\r\n          <folding>\r\n            <element signature=\"imports\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"17\" column=\"56\" selection-start-line=\"17\" selection-start-column=\"56\" selection-end-line=\"17\" selection-end-column=\"56\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon04Test.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"7\" column=\"31\" selection-start-line=\"7\" selection-start-column=\"31\" selection-end-line=\"7\" selection-end-column=\"31\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon05Test.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"25\" selection-start-line=\"25\" selection-end-line=\"25\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/demonifslese/TestCase.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret line=\"17\" selection-start-line=\"17\" selection-end-line=\"17\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/xuexiaoxiao/ClassAndObject/ObjectTestArgin.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"805\">\r\n          <caret line=\"35\" lean-forward=\"true\" selection-start-line=\"35\" selection-end-line=\"35\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/XueXiaoXiaoStudyJava/.classpath\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/src/study_test/Empty.java\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"184\">\r\n          <caret line=\"8\" column=\"43\" lean-forward=\"true\" selection-start-line=\"8\" selection-start-column=\"43\" selection-end-line=\"8\" selection-end-column=\"43\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n  <component name=\"masterDetails\">\r\n    <states>\r\n      <state key=\"ArtifactsStructureConfigurable.UI\">\r\n        <settings>\r\n          <artifact-editor />\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"FacetStructureConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"GlobalLibrariesConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"JdkListConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"ModuleStructureConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n      <state key=\"ProjectLibrariesConfigurable.UI\">\r\n        <settings>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n    </states>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 252fb79c77143c5c7be99c6bbfbe30cdccf0f301)
++++ b/.idea/workspace.xml	(date 1665396140682)
+@@ -2,8 +2,6 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="748323b0-2026-40c5-857b-d1c404d85628" name="Default Changelist" comment="" />
+-    <ignored path="$PROJECT_DIR$/out/" />
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -28,99 +26,6 @@
+   </component>
+   <component name="FavoritesManager">
+     <favorites_list name="java_projects" />
+-  </component>
+-  <component name="FileEditorManager">
+-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/study_test/InstanceCounter.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon01Test.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon02Test.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+-              <folding>
+-                <element signature="imports" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon04Test.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon05Test.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonifslese/TestCase.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/ClassAndObject/ObjectTestArgin.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="805">
+-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/XueXiaoXiaoStudyJava/.classpath">
+-          <provider selected="true" editor-type-id="text-editor" />
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/src/study_test/Empty.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="184">
+-              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-    </leaf>
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -134,6 +39,9 @@
+     <findStrings>
+       <find>value</find>
+     </findStrings>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+@@ -178,6 +86,10 @@
+     <option name="width" value="1750" />
+     <option name="height" value="980" />
+   </component>
++  <component name="ProjectId" id="2FwG5ZJSN40RicxIY5W6KMZGrYS" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="1" id="Add" />
++  </component>
+   <component name="ProjectView">
+     <navigator proportions="" version="1">
+       <foldersAlwaysOnTop value="true" />
+@@ -208,12 +120,17 @@
+         </subPane>
+       </pane>
+     </panes>
++  </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+     <property name="extract.method.default.visibility" value="private" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_directory_selection" value="$PROJECT_DIR$/eclipse-demo/src/de/galileocomputing/schroedinger/java" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/eclipse-demo/src/testdemon" />
+     <property name="node.js.detected.package.eslint" value="true" />
+     <property name="node.js.detected.package.tslint" value="true" />
+     <property name="node.js.path.for.package.eslint" value="project" />
+@@ -229,22 +146,14 @@
+     <property name="settings.editor.selected.configurable" value="settings.github" />
+   </component>
+   <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="F:\worksapce\java_practice01\eclipse-demo\src\testdemon" />
++      <recent name="F:\worksapce\java_practice01\eclipse-demo\src" />
++    </key>
+     <key name="CopyClassDialog.RECENTS_KEY">
+       <recent name="xuexiaoxiao.demonstring" />
+     </key>
+   </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
+-  </component>
+   <component name="RunManager" selected="Application.ObjectTestArgin">
+     <configuration name="Demon03Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="xuexiaoxiao.demonstring.Demon03Test" />
+@@ -321,6 +230,7 @@
+       </list>
+     </recent_temporary>
+   </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="SvnConfiguration">
+     <configuration />
+   </component>
+@@ -353,6 +263,7 @@
+       <workItem from="1595645084886" duration="52000" />
+       <workItem from="1595646153384" duration="850000" />
+       <workItem from="1595658042341" duration="302000" />
++      <workItem from="1665395551665" duration="569000" />
+     </task>
+     <servers />
+   </component>
+@@ -425,7 +336,18 @@
+     </layout-to-restore>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="1" />
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="antWorkspaceConfiguration">
+     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
